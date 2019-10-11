@@ -1,6 +1,10 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
 @@steamdb.info
 ||1password.com
+||oraclecloud.com
 ||500px.com
+||yastatic.net
 ||adobe.com
 ||adobeccstatic.com
 ||ads-twitter.com
@@ -18,6 +22,7 @@
 ||cdn.hockeyapp.net
 ||clipconverter.cc
 ||cloudfront.net
+||discordapp.com
 ||crazyegg.com
 ||creativecloud.com
 ||dashlane.com
@@ -25,7 +30,6 @@
 ||demandbase.com
 ||digitalattackmap.com
 ||digitalocean.com
-||discordapp.com
 ||do-analytics.net
 ||doubleclick.net
 ||dribbble.com
@@ -94,7 +98,6 @@
 ||repl.it
 ||rink.hockeyapp.net
 ||rockstargames.com
-||rockstargames.com
 ||rsg.sc
 ||scdn.co
 ||segment.com
@@ -103,14 +106,8 @@
 ||sourcemod.net
 ||speedtest.net
 ||spotify.com
-||steam.tv
 ||steamcommunity.com
-||steamcontent.com
 ||steamdb.info
-||steamgames.com
-||steamsignature.com
-||steamstatic.com
-||steamusercontent.com
 ||stickermule.com
 ||stripe.com
 ||stripe.network
@@ -118,8 +115,6 @@
 ||tumult.com
 ||twitch.tv
 ||typekit.com
-||ubi.com
-||ubisoft.com
 ||udacity.com
 ||ui8.net
 ||unbounce.com
