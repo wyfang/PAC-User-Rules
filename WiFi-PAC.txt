@@ -1,5 +1,14 @@
 @@alicdn.com
+@@live.com
+@@microsoft.com
+@@steamcontent.com
 @@steamdb.info
+@@steampowered.com
+@@steamstatic.com
+@@wanmei.com
+@@windows.com
+@@wmpvp.com
+||1password.com
 ||500px.com
 ||ada.support
 ||adobe.com
@@ -27,6 +36,7 @@
 ||clipconverter.cc
 ||cloudflare.com
 ||cloudfront.net
+||contentdef.com
 ||contentful.com
 ||cookielaw.org
 ||counter-strike.net
@@ -40,6 +50,7 @@
 ||digitalocean.com
 ||discordapp.com
 ||discourse-cdn.com
+||dlercloud.com
 ||do-analytics.net
 ||doubleclick.net
 ||dribbble.com
@@ -54,6 +65,7 @@
 ||facebook.net
 ||faceit.com
 ||fbcdn.net
+||fbthirdpartypixel.com
 ||figma.com
 ||fonts.googleapis.com
 ||ftcdn.net
@@ -122,12 +134,14 @@
 ||notion.so
 ||nr-data.net
 ||nvidia.com
+||oculus.com
 ||onetrust.com
 ||opensea.io
 ||oraclecloud.com
 ||origin.com
 ||paladins.com
 ||paypal.com
+||phprcdn.com
 ||pinterest.com
 ||polyfill.io
 ||procreate.art
@@ -150,6 +164,7 @@
 ||sourcemod.net
 ||speedtest.net
 ||spotify.com
+||steam-chat.com
 ||steamcommunity.com
 ||steamdb.info
 ||steampowered.com
@@ -158,6 +173,7 @@
 ||stripe.com
 ||stripe.network
 ||telegram.org
+||trafficjunky.com
 ||translate.googleapis.com
 ||ttvnw.net
 ||tumult.com
@@ -176,8 +192,10 @@
 ||vac-ban.com
 ||vediotalk.com
 ||vimeo.com
+||voicemod.net
 ||whatsapp.com
 ||wordpress.com
+||yandex.ru
 ||yastatic.net
 ||youku.com
 ||youtube.com
