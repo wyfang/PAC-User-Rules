@@ -166,7 +166,6 @@
 ||steam-chat.com
 ||steamcommunity.com
 ||steampowered.com
-||steamstatic.com
 ||stickermule.com
 ||stripe.com
 ||stripe.network
