@@ -3,7 +3,6 @@
 @@microsoft.com
 @@steamcontent.com
 @@steamdb.info
-@@steampowered.com
 @@steamstatic.com
 @@wanmei.com
 @@windows.com
