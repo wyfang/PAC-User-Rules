@@ -2,5 +2,5 @@
 
 Personal PAC list
 ```
-https://raw.githubusercontent.com/wyfang/PAC-User-Rules/master/pac.txt
+https://raw.githubusercontent.com/wyfang/PAC-User-Rules/master/user-rule.txt
 ```
